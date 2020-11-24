@@ -5,9 +5,9 @@ Hello~~😉
 
 - Love Home && Programming
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuomingXu&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuomingXu&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuomingXu&repo=selfusepy&theme=omni)](https://github.com/LuomingXu/selfusepy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuomingXu&repo=selfusepy&theme=prussian)](https://github.com/LuomingXu/selfusepy)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuomingXuOrg&repo=JavaUtil&theme=omni)](https://github.com/LuomingXuOrg/JavaUtil)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuomingXuOrg&repo=JavaUtil&theme=prussian)](https://github.com/LuomingXuOrg/JavaUtil)
 
